@@ -1,0 +1,7 @@
+﻿/.vs
+*.pbo
+*.exe
+releases/*
+*.biprivatekey
+keys/*
+.hemtt/local

@@ -1,0 +1,9 @@
+name = "Basic Script Profiler"
+prefix = "bsp"
+author = "GrueArbre"
+template = "cba"
+mainprefix = "z"
+sig_version = 3
+files = [
+    "mod.cpp"
+]
